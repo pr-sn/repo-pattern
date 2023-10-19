@@ -1,0 +1,8 @@
+D:\sn\BlankSolution1\Solution1\DevApplication1\obj\Debug\net7.0\DevApplication1.csproj.AssemblyReference.cache
+D:\sn\BlankSolution1\Solution1\DevApplication1\obj\Debug\net7.0\DevApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\sn\BlankSolution1\Solution1\DevApplication1\obj\Debug\net7.0\DevApplication1.AssemblyInfoInputs.cache
+D:\sn\BlankSolution1\Solution1\DevApplication1\obj\Debug\net7.0\DevApplication1.AssemblyInfo.cs
+D:\sn\BlankSolution1\Solution1\DevApplication1\obj\Debug\net7.0\DevApplication1.csproj.CoreCompileInputs.cache
+D:\sn\BlankSolution1\Solution1\DevApplication1\obj\Debug\net7.0\DevApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\sn\BlankSolution1\Solution1\DevApplication1\obj\Debug\net7.0\DevApplication1.RazorAssemblyInfo.cache
+D:\sn\BlankSolution1\Solution1\DevApplication1\obj\Debug\net7.0\DevApplication1.RazorAssemblyInfo.cs
